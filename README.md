@@ -12,7 +12,7 @@ Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at t
 Accepted at [CVPR 2022](https://cvpr2022.thecvf.com/). <br>
 Please visit our [paper website](https://trace.ethz.ch/lidar_snow_sim) for more details.
 
-## Citation
+## Citation(s)
 
 If you find this work useful, please consider citing our paper.
 ```bibtex
@@ -21,6 +21,17 @@ If you find this work useful, please consider citing our paper.
   title = {{LiDAR Snowfall Simulation for Robust 3D Object Detection}},
   booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
   year = {2022},
+}
+```
+You maybe also want to check out our earlier work [*Fog Simulation on Real LiDAR Point Clouds
+for 3D Object Detection in Adverse Weather*](https://github.com/MartinHahner/LiDAR_fog_sim).
+
+```bibtex
+@inproceedings{HahnerICCV21,
+  author = {Hahner, Martin and Sakaridis, Christos and Dai, Dengxin and Van Gool, Luc},
+  title = {{Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather}},
+  booktitle = {IEEE International Conference on Computer Vision (ICCV)},
+  year = {2021},
 }
 ```
 
