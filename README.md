@@ -22,8 +22,8 @@ If you find this work useful, please consider citing our paper.
   year = {2022},
 }
 ```
-You maybe also want to check out our earlier work [*Fog Simulation on Real LiDAR Point Clouds
-for 3D Object Detection in Adverse Weather*](https://github.com/MartinHahner/LiDAR_fog_sim).
+You maybe also want to check out our earlier work <br>
+[*Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather*](https://github.com/MartinHahner/LiDAR_fog_sim).
 
 ```bibtex
 @inproceedings{HahnerICCV21,
@@ -52,5 +52,5 @@ a [Sony Young Faculty Award](https://www.sony.com/en/SonyInfo/research-award-pro
 
 We thank Emmanouil Sakaridis for verifying our derivation of occlusion angles in our snowfall simulation.
 
-<img src="https://user-images.githubusercontent.com/14181188/160494058-9a965ac4-3ae3-4633-9d3c-25ef8462286f.png" height="50"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160494439-cca6665b-0732-4dda-90d9-1d3c77e7f6f8.png" height="50"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160494968-189c96cc-0a34-4e56-96c7-3a33ea439919.png" height="50"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160495259-f60ee657-3d04-40a8-abad-d8a9c42dd8fc.png" height="50">
+<img src="https://user-images.githubusercontent.com/14181188/160494058-9a965ac4-3ae3-4633-9d3c-25ef8462286f.png" height="40"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160494439-cca6665b-0732-4dda-90d9-1d3c77e7f6f8.png" height="40"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160494968-189c96cc-0a34-4e56-96c7-3a33ea439919.png" height="40"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160495259-f60ee657-3d04-40a8-abad-d8a9c42dd8fc.png" height="40">
 
