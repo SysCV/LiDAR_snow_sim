@@ -5,7 +5,7 @@ Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at t
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SysCV.LiDAR_snow_sim)
 
-# 🌨 LiDAR Snowfall Simulation for Robust 3D Object Detection
+# 🌨 LiDAR Snowfall Simulation <br> for Robust 3D Object Detection
 
 *by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Mario Bijelic](http://mariobijelic.de), [Felix Heide](https://www.cs.princeton.edu/~fheide/), [Fisher Yu](https://www.yf.io/),  [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)* 
 
