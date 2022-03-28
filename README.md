@@ -48,6 +48,7 @@ The work also received funding by the [AI-SEE](https://www.ai-see.eu/) project w
 We also thank the [Federal Ministry for Economic Affairs and Energy](https://www.bmwi.de/Navigation/EN/Home/home.html) for support within <br>
 [*VVM-Verification and Validation Methods for Automated Vehicles Level 4 and 5*](https://www.vvm-projekt.de/en/project), a [PEGASUS](https://pegasus-family.de/) family project. 
 
-[Felix Heide](https://www.cs.princeton.edu/~fheide/) was supported by an [NSF CAREER Award](https://www.cs.princeton.edu/news/national-science-foundation-awarded-professor-felix-heide-nsf-career-award) (2047359), a [Sony Young Faculty Award](https://www.sony.com/en/SonyInfo/research-award-program/), and a [Project X Innovation Award](https://aspire-report.princeton.edu/engineering/project-x-fund).
+[Felix Heide](https://www.cs.princeton.edu/~fheide/) was supported by an [NSF CAREER Award](https://www.cs.princeton.edu/news/national-science-foundation-awarded-professor-felix-heide-nsf-career-award) (2047359), <br>
+a [Sony Young Faculty Award](https://www.sony.com/en/SonyInfo/research-award-program/), and a [Project X Innovation Award](https://aspire-report.princeton.edu/engineering/project-x-fund).
 
 We thank Emmanouil Sakaridis for verifying our derivation of occlusion angles in our snowfall simulation.
