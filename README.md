@@ -1,13 +1,12 @@
-Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) of [ETH Zurich](https://ethz.ch/).
+Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) of [ETH Zurich](https://ethz.ch/). 
 
 ☝️ ___Our code will be published no later than June 2022.___
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SysCV.LiDAR_snow_sim)
 
 # 🌨 LiDAR Snowfall Simulation <br> for Robust 3D Object Detection
 
-*by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Mario Bijelic](http://mariobijelic.de), [Felix Heide](https://www.cs.princeton.edu/~fheide/), [Fisher Yu](https://www.yf.io/),  [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)* 
+*by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Mario Bijelic](http://mariobijelic.de), [Felix Heide](https://www.cs.princeton.edu/~fheide/), [Fisher Yu](https://www.yf.io/),  [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)* <br>
 
 📣 Oral at [CVPR 2022](https://cvpr2022.thecvf.com/). <br>
 Please visit our [paper website](https://trace.ethz.ch/lidar_snow_sim) for more details.
@@ -52,3 +51,6 @@ We also thank the [Federal Ministry for Economic Affairs and Energy](https://www
 a [Sony Young Faculty Award](https://www.sony.com/en/SonyInfo/research-award-program/), and a [Project X Innovation Award](https://aspire-report.princeton.edu/engineering/project-x-fund).
 
 We thank Emmanouil Sakaridis for verifying our derivation of occlusion angles in our snowfall simulation.
+
+<img src="https://user-images.githubusercontent.com/14181188/160494058-9a965ac4-3ae3-4633-9d3c-25ef8462286f.png" height="50"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160494439-cca6665b-0732-4dda-90d9-1d3c77e7f6f8.png" height="50"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160494968-189c96cc-0a34-4e56-96c7-3a33ea439919.png" height="50"> <img src="https://user-images.githubusercontent.com/14181188/160494703-21b8f713-b4f2-486a-9346-b8dd95c72438.png" height="20"> <img src="https://user-images.githubusercontent.com/14181188/160495259-f60ee657-3d04-40a8-abad-d8a9c42dd8fc.png" height="50">
+
