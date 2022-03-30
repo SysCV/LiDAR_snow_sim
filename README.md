@@ -2,7 +2,7 @@ Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at t
 
 ☝️ ___Our code will be published no later than June 2022.___
 
-[![arXiv](https://img.shields.io/badge/arXiv-2203.15118-00ff00.svg)](https://arxiv.org/abs/2203.15118) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SysCV.LiDAR_snow_sim)
+[![Support Ukraine](https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB)](https://opensource.fb.com/support-ukraine)  [![arXiv](https://img.shields.io/badge/arXiv-2203.15118-00ff00.svg)](https://arxiv.org/abs/2203.15118) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SysCV.LiDAR_snow_sim)
 
 [![PapersWithCode](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lidar-snowfall-simulation-for-robust-3d/3d-object-detection-on-clear-weather)](https://paperswithcode.com/sota/3d-object-detection-on-clear-weather?p=lidar-snowfall-simulation-for-robust-3d) <br>
 [![PapersWithCode](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lidar-snowfall-simulation-for-robust-3d/3d-object-detection-on-light-snowfall)](https://paperswithcode.com/sota/3d-object-detection-on-light-snowfall?p=lidar-snowfall-simulation-for-robust-3d) <br>
