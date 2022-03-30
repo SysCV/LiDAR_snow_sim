@@ -26,7 +26,7 @@ If you find this work useful, please consider citing our paper.
   year = {2022},
 }
 ```
-You maybe also want to check out our earlier work <br>
+You may also want to check out our earlier work <br>
 [*Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather*](https://github.com/MartinHahner/LiDAR_fog_sim).
 
 ```bibtex
