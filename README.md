@@ -4,10 +4,8 @@ Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at t
 
 [![arXiv](https://img.shields.io/badge/arXiv-2203.15118-00ff00.svg)](https://arxiv.org/abs/2203.15118) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SysCV.LiDAR_snow_sim)
 
-[![PapersWithCode](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lidar-snowfall-simulation-for-robust-3d/3d-object-detection-on-clear-weather)](https://paperswithcode.com/sota/3d-object-detection-on-clear-weather?p=lidar-snowfall-simulation-for-robust-3d) 
-
-[![PapersWithCode](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lidar-snowfall-simulation-for-robust-3d/3d-object-detection-on-light-snowfall)](https://paperswithcode.com/sota/3d-object-detection-on-light-snowfall?p=lidar-snowfall-simulation-for-robust-3d)
-
+[![PapersWithCode](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lidar-snowfall-simulation-for-robust-3d/3d-object-detection-on-clear-weather)](https://paperswithcode.com/sota/3d-object-detection-on-clear-weather?p=lidar-snowfall-simulation-for-robust-3d) <br>
+[![PapersWithCode](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lidar-snowfall-simulation-for-robust-3d/3d-object-detection-on-light-snowfall)](https://paperswithcode.com/sota/3d-object-detection-on-light-snowfall?p=lidar-snowfall-simulation-for-robust-3d) <br>
 [![PapersWithCode](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lidar-snowfall-simulation-for-robust-3d/3d-object-detection-on-stf-heavy-snowfall)](https://paperswithcode.com/sota/3d-object-detection-on-stf-heavy-snowfall?p=lidar-snowfall-simulation-for-robust-3d)
 
 # 🌨 LiDAR Snowfall Simulation <br> for Robust 3D Object Detection
