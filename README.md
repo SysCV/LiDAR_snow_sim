@@ -10,7 +10,7 @@ Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at t
 
 # 🌨 LiDAR Snowfall Simulation <br> for Robust 3D Object Detection
 
-*by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Mario Bijelic](http://mariobijelic.de), [Felix Heide](https://www.cs.princeton.edu/~fheide/), [Fisher Yu](https://www.yf.io/),  [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)* <br>
+*by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Mario Bijelic](http://mariobijelic.de), [Felix Heide](https://www.cs.princeton.edu/~fheide/), [Fisher Yu](https://www.trace.ethz.ch/team/members/fisher.html),  [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)* <br>
 
 📣 Oral at [CVPR 2022](https://cvpr2022.thecvf.com/). <br>
 Please visit our [paper website](https://trace.ethz.ch/lidar_snow_sim) for more details.
