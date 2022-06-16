@@ -1,0 +1,18 @@
+# PyCharm
+.idea/
+
+# DROR download folder
+alpha_0.45/
+
+# experiments folder
+experiments/
+
+# snowflake download folder
+npy/
+
+# wet ground example folder
+tools/wet_ground/example_data/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]

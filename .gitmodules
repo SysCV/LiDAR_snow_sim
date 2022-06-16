@@ -1,0 +1,15 @@
+[submodule "lib/LiDAR_fog_sim"]
+	path = lib/LiDAR_fog_sim
+	url = git@github.com:MartinHahner/LiDAR_fog_sim
+[submodule "lib/LISA"]
+	path = lib/LISA
+	url = git@github.com:MartinHahner/LISA
+[submodule "lib/cadc_devkit"]
+	path = lib/cadc_devkit
+	url = git@github.com:MartinHahner/cadc_devkit
+[submodule "lib/OpenPCDet"]
+	path = lib/OpenPCDet
+	url = git@github.com:MartinHahner/OpenPCDet
+[submodule "lib/pa_aug"]
+	path = lib/pa_aug
+	url = git@github.com:MartinHahner/pa-aug.pytorch
