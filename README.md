@@ -4,7 +4,7 @@ Created by [Martin Hahner](https://sites.google.com/view/martinhahner/home) at t
 
 # 🌨 LiDAR Snowfall Simulation <br> for Robust 3D Object Detection
 
-*by [Martin Hahner](https://www.trace.ethz.ch/team/members/martin.html), [Christos Sakaridis](https://www.trace.ethz.ch/team/members/christos.html), [Mario Bijelic](http://mariobijelic.de), [Felix Heide](https://www.cs.princeton.edu/~fheide/), [Fisher Yu](https://www.trace.ethz.ch/team/members/fisher.html),  [Dengxin Dai](https://www.trace.ethz.ch/team/members/dengxin.html), and [Luc van Gool](https://www.trace.ethz.ch/team/members/luc.html)* <br>
+*by [Martin Hahner](https://avi.ethz.ch//team/members/martin.html), [Christos Sakaridis](https://avi.ethz.ch//team/members/christos.html), [Mario Bijelic](http://mariobijelic.de), [Felix Heide](https://www.cs.princeton.edu/~fheide/), [Fisher Yu](https://avi.ethz.ch//team/members/fisher.html),  [Dengxin Dai](https://avi.ethz.ch//team/members/dengxin.html), and [Luc van Gool](https://avi.ethz.ch//team/members/luc.html)* <br>
 
 📣 Oral at [CVPR 2022](https://cvpr2022.thecvf.com/). <br>
 Please visit our [paper website](https://trace.ethz.ch/lidar_snow_sim) for more details.
@@ -107,7 +107,7 @@ cd LiDAR_snow_sim
 
 3) If you want to use our precomputed snowflake patterns, you can download them (2.3GB) as mentioned below.
 ```bash
-wget https://www.trace.ethz.ch/publications/2022/lidar_snow_simulation/snowflakes.zip
+wget https://avi.ethz.ch//publications/2022/lidar_snow_simulation/snowflakes.zip
 unzip snowflakes.zip
 rm snowflakes.zip
 ```
@@ -115,7 +115,7 @@ rm snowflakes.zip
 4) If you want to use [DROR](https://ieeexplore.ieee.org/document/8575761) as well, <br>
 you need to install [PCL](https://pointclouds.org/) or download the point indices (215MB) as mentioned below.
 ```bash
-wget https://www.trace.ethz.ch/publications/2022/lidar_snow_simulation/DROR.zip
+wget https://avi.ethz.ch//publications/2022/lidar_snow_simulation/DROR.zip
 unzip DROR.zip
 rm DROR.zip
 ```
@@ -129,7 +129,7 @@ python pointcloud_viewer.py
 Note: For unknown reasons, this can roughly slow down the augmentation(s) by a factor of two.
 ```bash
 # Download our checkpoints (265MB)
-wget https://www.trace.ethz.ch/publications/2022/lidar_snow_simulation/experiments.zip
+wget https://avi.ethz.ch//publications/2022/lidar_snow_simulation/experiments.zip
 unzip experiments.zip
 rm experiments.zip
 
@@ -160,7 +160,7 @@ We are always open to merge useful pull request.
 
 ## Acknowledgments
 
-**This work is supported by [Toyota](https://www.toyota-europe.com/) via the [TRACE](https://www.trace.ethz.ch/) project.**
+**This work is supported by [Toyota](https://www.toyota-europe.com/) via the [TRACE](https://avi.ethz.ch//) project.**
 
 The work also received funding by the [AI-SEE](https://www.ai-see.eu/) project with national funding from
 - the [Austrian Research Promotion Agency (FFG)](https://www.ffg.at/),
